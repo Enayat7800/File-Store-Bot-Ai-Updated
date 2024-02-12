@@ -6,7 +6,7 @@ class Config(object):
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
   LUFFY_PIC = os.environ.get("LUFFY_PIC", "https://graph.org/file/1c15be412eb886ba1c8e3.jpg")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "Meranewbothe_bot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001970740972"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002087868693"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "1251962299"))
@@ -41,8 +41,7 @@ Hello, [{}](tg://user?id={}) 🤍\n
 ◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ.
 ◈ I Cᴀɴ Gɪᴠᴇ Yᴏᴜ Dɪʀᴇᴄᴛ Aɴᴅ Bᴀᴛᴄʜ Lɪɴᴋs Jᴜsᴛ Fᴏʀᴡᴀʀᴅ Mᴇ Fɪʟᴇs.
 
-• Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @missqueenbotx
-</b>"""
+"""
 
   Helps_data_test = """<b>
 ⚪️ Hᴏᴡ ᴛᴏ Usᴇ Bᴏᴛ & ɪᴛ's Bᴇɴᴇғɪᴛs?? 👇
