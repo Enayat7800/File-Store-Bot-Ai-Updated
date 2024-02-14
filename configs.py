@@ -27,8 +27,8 @@ class Config(object):
 ╰───────────────⍟ </b> 
 """
   ABOUT_DEV_TEXT = f"""
-<b>Hɪ I'M <a href= @Enayatali > Enayat </a>✨\n
-ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ : <a href= @Enayatali1 >Cʟɪᴄᴋ Hᴇʀᴇ</a>
+<b>Hɪ I'M <a href=https://t.me/Enayatali > Enayat </a>✨\n
+ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ : <a href=https://t.me/Enayatali1 >Cʟɪᴄᴋ Hᴇʀᴇ</a>
 """
   HOME_TEXT = """<b>
 Hello, [{}](tg://user?id={}) 🤍\n
